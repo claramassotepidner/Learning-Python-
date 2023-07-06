@@ -1,6 +1,6 @@
 # Learning-Python- 
 
-This four activities:
+There are three activities:
 * Atividade_1
 * Atividade3
 * Trabalhofinal
